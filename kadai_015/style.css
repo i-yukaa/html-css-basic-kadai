@@ -21,3 +21,6 @@ body {
 div p {
     font-weight: bold;
 }
+html {
+    font-size: 20px;
+}
